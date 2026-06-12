@@ -13,7 +13,13 @@ class Solution {
         }
         return result.toString();
     }
+
 }
+
+
+
+
+
 
 The code creates an empty container called `result` to store the final merged word. It then starts with an index value `i = 0`,
 which represents the current position in both words. A `while` loop keeps running as long as there are characters left in either word. 
